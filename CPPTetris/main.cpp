@@ -6,6 +6,11 @@
 //
 
 #include <iostream>
+#include <thread>
+#include <vector>
+using namespace std;
+
+#include <stdio.h>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
